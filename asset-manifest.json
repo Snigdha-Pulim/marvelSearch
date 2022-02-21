@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marvelSearch/static/css/main.e18731bf.css",
+    "main.js": "/marvelSearch/static/js/main.c9e84b70.js",
+    "static/js/787.125050f9.chunk.js": "/marvelSearch/static/js/787.125050f9.chunk.js",
+    "static/media/logo.png": "/marvelSearch/static/media/logo.b5cf139220a01f56173f.png",
+    "index.html": "/marvelSearch/index.html",
+    "main.e18731bf.css.map": "/marvelSearch/static/css/main.e18731bf.css.map",
+    "main.c9e84b70.js.map": "/marvelSearch/static/js/main.c9e84b70.js.map",
+    "787.125050f9.chunk.js.map": "/marvelSearch/static/js/787.125050f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18731bf.css",
+    "static/js/main.c9e84b70.js"
+  ]
+}
