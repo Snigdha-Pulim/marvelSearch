@@ -23,7 +23,7 @@ export default class App extends Component {
         if (event.target.value !== "") {
           axios
             .get(
-              `http://gateway.marvel.com/v1/public/characters?nameStartsWith=${event.target.value}&ts=1&apikey=2c1f70f24581ac39d06983f4164f06b1&hash=9af082db6a92a668f2b6054bd0b79619`
+              `https://gateway.marvel.com/v1/public/characters?nameStartsWith=${event.target.value}&ts=1&apikey=2c1f70f24581ac39d06983f4164f06b1&hash=9af082db6a92a668f2b6054bd0b79619`
             )
             .then((res) => {
               this.setState({ characters: res.data.data.results });
